@@ -5,5 +5,11 @@ public class LoginPage
 public void loginpage()
 {
 	System.out.println("loginpage");
+	
+}
+public void login2page()
+{
+	System.out.println("login2updatedpage");
 }
 }
+
