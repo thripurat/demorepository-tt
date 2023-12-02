@@ -12,4 +12,9 @@ public class LoginTest
 		System.out.println("logintest");
 	}
 	
+	
+	public void dealspage2update()
+	{
+		System.out.println("dealspage2update");
+	}
 }
